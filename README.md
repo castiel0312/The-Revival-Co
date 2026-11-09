@@ -291,9 +291,3 @@ The Revival Co. Team
 - Supabase for backend infrastructure
 - Framer Motion for animation capabilities
 - The open-source community
-
----
-
-**Made with 💚 for a sustainable future**
-=======
->>>>>>> 1d19f4003e8d716598ef268acece98039d352952
