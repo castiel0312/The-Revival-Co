@@ -112,7 +112,7 @@ npm install
 ```bash
 VITE_API_URL=http://localhost:3000
 VITE_SUPABASE_URL=your_supabase_project_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+VITE_SUPABASE_KEY=your_supabase_anon_key
 ```
 
 3. Start the development server:
@@ -249,7 +249,7 @@ npm run dev         # Start development server with auto-reload
 ```
 VITE_API_URL=http://localhost:3000
 VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_key
+VITE_SUPABASE_KEY=your_supabase_key
 ```
 
 ### Backend (server/.env)
